@@ -1,9 +1,9 @@
 # QA Engineer Portfolio [전유안]
 
 ### [포트폴리오](https://www.notion.so/QA-Engineer-Portfolio-26cc3816da3e804b956cee8b2f3a4c09)
+---
 
-
-### 웹 자동화 프로젝트
+## 웹 자동화 프로젝트
 
 
 ### [Playwright](https://github.com/euuuuuuan/qa-automation-playwright)
@@ -26,7 +26,7 @@
 ---
 
 
-### 모바일 앱 자동화 프로젝트
+## 모바일 앱 자동화 프로젝트
 
 
 ### [Appium](https://github.com/euuuuuuan/qa-automation-appium)
@@ -38,7 +38,7 @@
 
 ---
 
-### 엑셀 자동화 프로젝트
+## 엑셀 자동화 프로젝트
 
 ### [Excel](https://github.com/euuuuuuan/excel-data-automation)
 
