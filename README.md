@@ -6,17 +6,17 @@
 ### 웹 자동화 프로젝트
 
 
-- ![Playwright](https://github.com/euuuuuuan/qa-automation-playwright)
+- [Playwright](https://github.com/euuuuuuan/qa-automation-playwright)
 
 이 프로젝트는 Playwright와 JavaScript를 활용하여 구글 검색 기능 및 Django 기반 이커머스 웹사이트의 웹 자동화 테스트를 수행한 포트폴리오 예제입니다.
 
 
-- ![온라인 쇼핑몰 사이트 프로젝트](https://github.com/euuuuuuan/qa-e-commerce-site-django)
+- [온라인 쇼핑몰 사이트 프로젝트](https://github.com/euuuuuuan/qa-e-commerce-site-django)
 
 이 프로젝트는 Django와 Python을 활용하여 사용자 친화적인 온라인 쇼핑몰을 구축한 예제입니다.
 
 
-- ![Selenium](https://github.com/euuuuuuan/dynamic-web-scraping-selenium)
+- [Selenium](https://github.com/euuuuuuan/dynamic-web-scraping-selenium)
 
 이 프로젝트는 Python과 Selenium을 활용하여 다양한 웹사이트에서 데이터를 수집하고, 웹 동작의 자동화에 초점을 맞추었습니다.
 
@@ -26,7 +26,7 @@
 ### 모바일 앱 자동화 프로젝트
 
 
-- ![Appium](https://github.com/euuuuuuan/qa-automation-appium)
+- [Appium](https://github.com/euuuuuuan/qa-automation-appium)
 
 이 프로젝트는 Appium과 Java를 활용하여 안드로이드 기본 계산기 모바일 앱의 주요 기능을 자동화 테스트하는 예제입니다.
 
@@ -37,7 +37,7 @@
 
 ### 엑셀 자동화 프로젝트
 
-![Excel](https://github.com/euuuuuuan/excel-data-automation)
+- [Excel](https://github.com/euuuuuuan/excel-data-automation)
 
 이 프로젝트는 엑셀 파일에 분산되어 있는 데이터를 자동으로 통합하고, 특정 기준에 따라 데이터를 업데이트하는 자동화 스크립트입니다.
 
