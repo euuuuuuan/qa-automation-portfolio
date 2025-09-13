@@ -13,7 +13,7 @@
 
 - [온라인 쇼핑몰 사이트 프로젝트](https://github.com/euuuuuuan/qa-e-commerce-site-django)
 
-이 프로젝트는 Django와 Python을 활용하여 사용자 친화적인 온라인 쇼핑몰을 구축한 예제입니다.
+이 프로젝트는 Django와 Python을 활용하여 사용자 친화적인 온라인 쇼핑몰을 구축한 예제입니다. 상단의 Playwright 작업물과 부분적으로 연계됩니다.
 
 
 - [Selenium](https://github.com/euuuuuuan/dynamic-web-scraping-selenium)
