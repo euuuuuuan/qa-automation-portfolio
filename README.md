@@ -46,6 +46,10 @@
 - 이 프로젝트는 Postman과 Python을 활용하여 API 자동화 테스트 예제입니다.
 - Github Action을 활용하여 CI/CD 파이프라인을 구축하였습니다. 코드가 변경될 때마다 즉각적인 피드백 조치 및 개발 생산성을 증대시켰습니다.
 
+### [Rest-assured](https://github.com/euuuuuuan/restassured-api-automation)
+
+- 추후 진행예정
+
 ---
 
 ## 엑셀 자동화 프로젝트
