@@ -62,9 +62,9 @@
 ## 개발 미니 프로젝트
 
 ### 가위바위보 게임
-### [React](https://github.com/euuuuuuan/react-rock-scissor-paper)
+### [React1](https://github.com/euuuuuuan/react-rock-scissor-paper)
 
 ### 주사위 게임
-### [React](https://github.com/euuuuuuan/react-dice-game)
+### [React2](https://github.com/euuuuuuan/react-dice-game)
 
 
