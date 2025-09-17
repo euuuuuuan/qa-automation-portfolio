@@ -59,7 +59,7 @@
 
 ---
 
-## 개발 미니 프로젝트
+## 개발 미니 프로젝트(외전)
 
 ### 가위바위보 게임
 ### [React1](https://github.com/euuuuuuan/react-rock-scissor-paper)
