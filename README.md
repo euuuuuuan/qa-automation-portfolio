@@ -57,5 +57,14 @@
 - 단순 반복작업에 대한 요소를 감소시키고, 업무 효율 증진을 목적으로 설계하였습니다.
 
 
+---
+
+## 개발 미니 프로젝트
+
+### 가위바위보 게임
+### [React](https://github.com/euuuuuuan/react-rock-scissor-paper)
+
+### 주사위 게임
+### [React](https://github.com/euuuuuuan/react-dice-game)
 
 
