@@ -39,6 +39,15 @@
 
 ---
 
+## API 자동화 프로젝트
+
+### [Postman](https://github.com/euuuuuuan/postman-api-automation)
+
+- 이 프로젝트는 Postman과 Python을 활용하여 API 자동화 테스트 예제입니다.
+- Github Action을 활용하여 CI/CD 파이프라인을 구축하였습니다. 코드가 변경될 때마다 즉각적인 피드백을 받을 수 있고, 개발 생산성을 증대시켰습니다.
+
+---
+
 ## 엑셀 자동화 프로젝트
 
 ### [Excel](https://github.com/euuuuuuan/excel-data-automation)
