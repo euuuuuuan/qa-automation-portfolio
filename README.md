@@ -9,8 +9,9 @@
 
 ### [Playwright](https://github.com/euuuuuuan/qa-automation-playwright)
 
-- 이 프로젝트는 Playwright와 JavaScript를 활용하여 구글 검색 기능,
+- 이 프로젝트는 Playwright와 JavaScript를 활용하여 구글 검색 기능을 간단히 구현했습니다.
 - Django 기반 이커머스 웹사이트의 웹 자동화 테스트를 수행한 포트폴리오 예제입니다.
+- 주요 기능은 회원가입, 로그인부터 장바구니 담기와 결제까지 E2E 자동화를 수행합니다.
 
 
 ### [온라인 쇼핑몰 사이트 프로젝트](https://github.com/euuuuuuan/qa-e-commerce-site-django)
